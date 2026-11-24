@@ -1,0 +1,6 @@
+{
+  "appId": "com.matty.levelup",
+  "appName": "LEVEL UP",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
